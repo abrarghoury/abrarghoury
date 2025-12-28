@@ -14,7 +14,7 @@
 <!-- ===== SHORT INTRO ===== -->
 <p align="center">
 🎓 BSCS (Artificial Intelligence) — <b>NED University of Engineering & Technology</b><br>
-📌 Batch: <b>2023</b> | 📊 GPA: <b>3.6</b><br>
+📌 Batch: <b>2023</b> | 📊 GPA: <b>3.645</b><br>
 💼 <b>Data Science Intern @ 10Pearls Shine</b>
 </p>
 
